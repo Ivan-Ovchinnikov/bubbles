@@ -336,6 +336,7 @@ class GameField:
                 self.find_group_recursion(n, bubble_type, group)
 
     def add_empty_row(self):
+
         next_row_index = len(self.bubbles)
         num_bubbles_in_row = len(self.bubbles[0])
         if next_row_index % 2 == 0:
