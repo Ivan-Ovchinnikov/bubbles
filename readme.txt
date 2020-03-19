@@ -1,0 +1,2 @@
+- создать virtual environment c именем venv
+- открыть Project Settings\Project Interpreter и поставить pygame
